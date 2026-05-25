@@ -1,0 +1,40 @@
+Name: Feldspar (Orthoclase) GDS27
+Type: Mineral
+Sample_ID: GDS27
+Chemical_Formula: KAlSi₃O₈
+Wavelength_Range: 4.0-4.6 micrometers
+Data_Source: USGS Spectral Library
+Date_Acquired: To be filled
+Description: Natural feldspar (orthoclase) sample
+Wavelength(μm)	Reflectance(%)
+4.00	
+4.02	
+4.04	
+4.06	
+4.08	
+4.10	
+4.12	
+4.14	
+4.16	
+4.18	
+4.20	
+4.22	
+4.24	
+4.26	
+4.28	
+4.30	
+4.32	
+4.34	
+4.36	
+4.38	
+4.40	
+4.42	
+4.44	
+4.46	
+4.48	
+4.50	
+4.52	
+4.54	
+4.56	
+4.58	
+4.60	

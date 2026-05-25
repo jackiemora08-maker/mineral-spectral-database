@@ -1,0 +1,20 @@
+Sample_ID,Material_Name,Material_Type,Chemical_Formula,Wavelength_Range,Data_Source,Date_Acquired,Description,File_Path
+GDS26,Quartz,Mineral,SiO₂,4.0-4.6μm,USGS,To be filled,Natural quartz sample,data/minerals/quartz/quartz_GDS26.txt
+GDS27,Feldspar (Orthoclase),Mineral,KAlSi₃O₈,4.0-4.6μm,USGS,To be filled,Natural feldspar sample,data/minerals/feldspars/feldspar_GDS27.txt
+GDS01,Calcite,Mineral,CaCO₃,4.0-4.6μm,USGS,To be filled,Natural calcite sample,data/minerals/calcite/calcite_GDS01.txt
+GDS02,Dolomite,Mineral,CaMg(CO₃)₂,4.0-4.6μm,USGS,To be filled,Natural dolomite sample,data/minerals/dolomite/dolomite_GDS02.txt
+GDS25,Hematite,Mineral,Fe₂O₃,4.0-4.6μm,USGS,To be filled,Natural hematite sample,data/minerals/hematite/hematite_GDS25.txt
+GDS24,Magnetite,Mineral,Fe₃O₄,4.0-4.6μm,USGS,To be filled,Natural magnetite sample,data/minerals/magnetite/magnetite_GDS24.txt
+GDS28,Mica (Muscovite),Mineral,KAl₂(AlSi₃O₁₀)(OH)₂,4.0-4.6μm,USGS,To be filled,Natural mica sample,data/minerals/micas/mica_GDS28.txt
+GDS29,Chlorite,Mineral,(Mg,Fe,Al)₆(Si,Al)₄O₁₀(OH)₈,4.0-4.6μm,USGS,To be filled,Natural chlorite sample,data/minerals/chlorite/chlorite_GDS29.txt
+GDS03,Kaolinite,Mineral,Al₂Si₂O₅(OH)₄,4.0-4.6μm,USGS,To be filled,Natural kaolinite sample,data/minerals/kaolinite/kaolinite_GDS03.txt
+GDS04,Montmorillonite,Mineral,(Na,Ca)₀.₃₃(Al,Mg)₂Si₄O₁₀(OH)₂·nH₂O,4.0-4.6μm,USGS,To be filled,Natural montmorillonite sample,data/minerals/montmorillonite/montmorillonite_GDS04.txt
+GDS05,Illite,Mineral,(K,H₃O)(Al,Mg,Fe)₂(Si,Al)₄O₁₀[(OH)₂,(H₂O)],4.0-4.6μm,USGS,To be filled,Natural illite sample,data/minerals/illite/illite_GDS05.txt
+SOIL_LAT_001,Laterite,Soil,Mixed,4.0-4.6μm,USGS,To be filled,Natural laterite soil sample,data/soils/laterite/laterite_soil_001.txt
+SOIL_ULT_001,Ultisol,Soil,Mixed,4.0-4.6μm,USGS,To be filled,Natural ultisol soil sample,data/soils/ultisol/ultisol_soil_001.txt
+SOIL_CAM_001,Cambisol,Soil,Mixed,4.0-4.6μm,USGS,To be filled,Natural cambisol soil sample,data/soils/cambisol/cambisol_soil_001.txt
+SOIL_MOL_001,Mollisol,Soil,Mixed,4.0-4.6μm,USGS,To be filled,Natural mollisol soil sample,data/soils/mollisol/mollisol_soil_001.txt
+SOIL_SPO_001,Spodosol,Soil,Mixed,4.0-4.6μm,USGS,To be filled,Natural spodosol soil sample,data/soils/spodosol/spodosol_soil_001.txt
+SOIL_SAL_001,Salic Soil,Soil,Mixed,4.0-4.6μm,USGS,To be filled,Natural salic soil sample,data/soils/salic_soil/salic_soil_001.txt
+SOIL_GRV_001,Gravelly Soil,Soil,Mixed,4.0-4.6μm,USGS,To be filled,Natural gravelly soil sample,data/soils/gravelly_soils/gravelly_soil_001.txt
+SOIL_CLY_001,Clay Soil,Soil,Mixed,4.0-4.6μm,USGS,To be filled,Natural clay soil sample,data/soils/clay_soils/clay_soil_001.txt
